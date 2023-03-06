@@ -1,0 +1,10 @@
+id  - name  - password  - balance  - salary 
+1 -  - 12233 - 60000-8000
+id  - name  - password  - balance -Salary 
+1 - mo - 1253 - 50000-
+id  - name  - password  - balance -Salary 
+1 - mo - 1253 - 50000-50000
+1 - mo - 1253 - 50000-23356555
+1 - mo - 1253 - 50000-23356555
+1 - mo - 1253 - 50000-23356555
+1 - mo - 1253 - 50000-23356555

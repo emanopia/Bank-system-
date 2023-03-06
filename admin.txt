@@ -1,0 +1,8 @@
+id  - name  - password  - balance -Salary 
+1 - ahmed  - 1354 - 50000-96000
+id  - name  - password  - balance -Salary 
+1 - ahmed  - 1354 - 50000-96000
+id  - name  - password  - balance -Salary 
+1 -  mona  - 1354 - 9000-9000
+id  - name  - password  - balance -Salary 
+1 -  mona  - 1354 - 9000-9000

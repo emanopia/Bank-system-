@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1678137964 source:d:\project\phase2\main.cpp
+	<iostream>
+	<fstream>
+	"employee.h"
+	"client.h"
+	"admin.h"
+	"person.h"
+	"DataSourceInterface.h"
+	"FileManager.h"
+
+1678134486 d:\project\phase2\employee.h
+	"client.h"
+	<iostream>
+
+1678022190 d:\project\phase2\client.h
+	"person.h"
+	<iostream>
+
+1678064883 d:\project\phase2\person.h
+	<iostream>
+
+1678022190 d:\project\phase2\admin.h
+	"employee.h"
+	<iostream>
+
+1678132968 d:\project\phase2\datasourceinterface.h
+	"client.h"
+	"employee.h"
+	"admin.h"
+	<iostream>
+	<vector>
+
+1678133642 d:\project\phase2\filemanager.h
+	"client.h"
+	"employee.h"
+	"admin.h"
+	"person.h"
+	"DataSourceInterface.h"
+	<iostream>
+
